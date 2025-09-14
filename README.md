@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>EXCEL VBA </b>
-  - [Praciting DS & Algos in Python](https://github.com/gh0st2020/Excel-VBA-)
+  - [EXCEL VBA - Introduced to work place](https://github.com/gh0st2020/Excel-VBA-)
 - <b>Hello World</b>
   - [Image Analysis Middleware](https://github.com/gh0st2020/Excel-VBA-) <b><i>(Potentially NSFW)</b></i>
 

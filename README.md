@@ -5,7 +5,7 @@
 - <b>EXCEL VBA </b>
   - [Praciting DS & Algos in Python](https://github.com/gh0st2020/Excel-VBA-)
 - <b>Hello World</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/gh0st2020/Excel-VBA-) <b><i>(Potentially NSFW)</b></i>
 
 <h2>👨‍💻 Stock Analysis Projects:</h2>
 
